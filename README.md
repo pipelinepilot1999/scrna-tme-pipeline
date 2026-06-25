@@ -103,7 +103,6 @@ demonstrated here.
 - `04_cnv.ipynb` — copy-number inference
 - `environment.yml` — reproducible conda environment
 
-## Reproducibility note
 
 ## Reproducing
 
