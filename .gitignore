@@ -1,0 +1,10 @@
+data/
+*.tar
+*.h5ad
+*.h5
+env_build.log
+wget.log
+.ipynb_checkpoints/
+__pycache__/
+.pybiomart.sqlite
+figures/
