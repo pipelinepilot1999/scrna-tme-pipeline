@@ -105,6 +105,14 @@ demonstrated here.
 
 ## Reproducibility note
 
+## Reproducing
+
+```bash
+conda env create -f environment.yml && conda activate scrna
+bash download.sh        # fetches GSE161529, extracts the 4 samples
+# then run notebooks 01 → 04 in order
+```
+
 Gene genomic positions for CNV were fetched live from Ensembl BioMart. For a
 production pipeline requiring exact reproducibility, a pinned GENCODE GTF would be
 preferred; BioMart was chosen here for convenience with the tradeoff documented.
