@@ -36,6 +36,10 @@ from the normal immune and stromal cells sitting beside them. This project asks:
    **TNBC shows greater genomic instability than ER+** (CNV score 0.013 vs 0.009) —
    independently recovering a documented clinical feature of TNBC.
 
+![CNV chromosome heatmap](images/cnv_heatmap.png)
+
+*Genome-wide copy-number landscape. Tumor cells (ER+, TNBC) show chromosomal gains (red) and losses (blue); immune and stromal cells remain flat. TNBC shows greater instability than ER+.*
+
 ## Approach
 
 | Stage | What | Key decisions |
